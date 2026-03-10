@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "slug": "organic-honey-500g",
+    "name": "Organic Wild Honey 500g",
+    "description": "Pure wild honey from local forests. Unprocessed and packed with natural goodness.",
+    "price": 450,
+    "currency": "INR",
+    "image": "/products/honey.jpg",
+    "category": "Food",
+    "region": "Local",
+    "inStock": true
+  },
+  {
+    "id": "2",
+    "slug": "handwoven-cotton-scarf",
+    "name": "Handwoven Cotton Scarf",
+    "description": "Traditional handwoven scarf by local artisans. Soft, breathable, and sustainable.",
+    "price": 899,
+    "currency": "INR",
+    "image": "/products/scarf.jpg",
+    "category": "Handicrafts",
+    "region": "Local",
+    "inStock": true
+  },
+  {
+    "id": "3",
+    "slug": "clay-pot-set",
+    "name": "Terracotta Clay Pot Set (3 pcs)",
+    "description": "Earthen clay pots for cooling water and cooking. Chemical-free and eco-friendly.",
+    "price": 650,
+    "currency": "INR",
+    "image": "/products/clay-pot.jpg",
+    "category": "Home",
+    "region": "Local",
+    "inStock": true
+  },
+  {
+    "id": "4",
+    "slug": "spices-masala-box",
+    "name": "Local Spices & Masala Box",
+    "description": "Curated box of freshly ground spices from local farms. 6 essential masalas included.",
+    "price": 599,
+    "currency": "INR",
+    "image": "/products/spices.jpg",
+    "category": "Food",
+    "region": "Local",
+    "inStock": true
+  },
+  {
+    "id": "5",
+    "slug": "bamboo-basket",
+    "name": "Bamboo Storage Basket",
+    "description": "Handcrafted bamboo basket for storage or decor. Durable and sustainable.",
+    "price": 750,
+    "currency": "INR",
+    "image": "/products/basket.jpg",
+    "category": "Handicrafts",
+    "region": "Local",
+    "inStock": true
+  }
+]

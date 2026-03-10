@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "slug": "nursing",
+    "name": "Nursing Care",
+    "description": "Professional nursing care at home. Qualified nurses for post-surgery care, wound dressing, injections, and general patient monitoring.",
+    "price": 800,
+    "currency": "INR",
+    "priceNote": "per visit",
+    "image": "/services/nursing.jpg",
+    "category": "Healthcare",
+    "available": true
+  },
+  {
+    "id": "2",
+    "slug": "lab-test-at-home",
+    "name": "Lab Test at Home",
+    "description": "Get blood tests, urine tests, and other diagnostics done at your doorstep. Reports delivered online. No need to visit a lab.",
+    "price": 299,
+    "currency": "INR",
+    "priceNote": "starting",
+    "image": "/services/lab.jpg",
+    "category": "Healthcare",
+    "available": true
+  },
+  {
+    "id": "3",
+    "slug": "rental-cars",
+    "name": "Rental Cars",
+    "description": "Self-drive and chauffeur-driven car rentals. Hourly, daily, or weekly. Sedans, SUVs, and luxury options available.",
+    "price": 1200,
+    "currency": "INR",
+    "priceNote": "per day",
+    "image": "/services/rental.jpg",
+    "category": "Travel",
+    "available": true
+  },
+  {
+    "id": "4",
+    "slug": "physiotherapy",
+    "name": "Physiotherapy at Home",
+    "description": "Certified physiotherapists for recovery, mobility, and pain relief. Sessions tailored to your condition and schedule.",
+    "price": 600,
+    "currency": "INR",
+    "priceNote": "per session",
+    "image": "/services/physio.jpg",
+    "category": "Healthcare",
+    "available": true
+  },
+  {
+    "id": "5",
+    "slug": "elder-care",
+    "name": "Elder Care",
+    "description": "Companion and caregiving support for seniors. Medication reminders, mobility assistance, and daily care at home.",
+    "price": 1500,
+    "currency": "INR",
+    "priceNote": "per day",
+    "image": "/services/elder-care.jpg",
+    "category": "Healthcare",
+    "available": true
+  },
+  {
+    "id": "6",
+    "slug": "home-cleaning",
+    "name": "Home Cleaning",
+    "description": "Deep cleaning, regular housekeeping, and post-move cleaning. Trained staff and eco-friendly products.",
+    "price": 500,
+    "currency": "INR",
+    "priceNote": "starting",
+    "image": "/services/cleaning.jpg",
+    "category": "Home",
+    "available": true
+  }
+]
